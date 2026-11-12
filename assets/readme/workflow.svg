@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">从指定官网到俄语单块 JSON</title>
+  <desc id="desc">输入产品名称、版本和官网；核对资料，保留条件，忠实转述；输出一个 raTextBlock，版本 0.3。</desc>
+  <rect width="1200" height="370" rx="24" fill="#101b30"/>
+  <g font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif">
+    <text x="56" y="70" fill="#ffffff" font-size="36" font-weight="700">从指定官网，到俄语商品资料</text>
+    <text x="56" y="109" fill="#a8b8ce" font-size="22">OZON PRODUCT JSON · 功能 / 卖点 / 参数 / 限定条件</text>
+    <g id="input">
+      <rect x="56" y="150" width="326" height="160" rx="16" fill="#1b2a43"/>
+      <text x="80" y="193" fill="#6ee7d4" font-size="22">01 · INPUT</text>
+      <text x="80" y="242" fill="#ffffff" font-size="32" font-weight="600">名称 + 版本 + 官网</text>
+      <text x="80" y="282" fill="#a8b8ce" font-size="22">以用户指定来源为依据</text>
+    </g>
+    <path d="M392 230 H422 M414 222 L422 230 L414 238" fill="none" stroke="#6ee7d4" stroke-width="3"/>
+    <g id="process">
+      <rect x="432" y="150" width="314" height="160" rx="16" fill="#1b2a43"/>
+      <text x="456" y="193" fill="#6ee7d4" font-size="22">02 · SOURCE → RU</text>
+      <text x="456" y="242" fill="#ffffff" font-size="32" font-weight="600">核对 · 转述 · 分组</text>
+      <text x="456" y="282" fill="#a8b8ce" font-size="22">保留必要条件，不补造信息</text>
+    </g>
+    <path d="M756 230 H786 M778 222 L786 230 L778 238" fill="none" stroke="#6ee7d4" stroke-width="3"/>
+    <g id="output">
+      <rect x="796" y="150" width="348" height="160" rx="16" fill="#183b40"/>
+      <text x="820" y="193" fill="#6ee7d4" font-size="22">03 · JSON 0.3</text>
+      <text x="820" y="242" fill="#ffffff" font-size="32" font-weight="600">1 × raTextBlock</text>
+      <text x="820" y="282" fill="#c1d9d5" font-size="22">俄语正文 · 分组 · 适量 emoji</text>
+    </g>
+  </g>
+</svg>
