@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ozon 产品 JSON"
+  short_description: "根据指定官网忠实转述俄语功能、卖点与参数，生成单块 Ozon 富内容 JSON"
+  default_prompt: "使用 $ozon-product-json，根据我提供的产品名称、版本和指定官网，生成完整的俄语单块商品富内容 JSON。"
