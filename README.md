@@ -53,7 +53,7 @@
 在可以读取该 Skill 的 Codex 会话中输入：
 
 ```text
-使用 $Ozon 产品 JSON 
+使用 $ozon-product-json
 产品名称：HUAWEI WATCH GT 7
 版本：Глобальная версия
 官网：https://consumer.huawei.com/ru/wearables/watch-gt7/
